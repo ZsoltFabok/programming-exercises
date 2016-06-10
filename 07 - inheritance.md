@@ -1,0 +1,3 @@
+Given an organisation that has one CEO, 1-2 Secretaries, 1-10 managers, 1-4 Java, and 1-5 CPP developers. Each empolyee has a name, and a salary. A CEO can have managers, secretaries, and developers, managers can have secretaries (can be the same as the CEO's) and developers, developers have nobody. A CEO can tell the vision, the managers can tell the directions, secretaries can order stuff, and developers can do development: either java and CPP.
+
+Implement an application that randomly generates an organisation and can tell how much the manpower costs, prints who is doing what, and the manager chain of each developer.

@@ -1,0 +1,1 @@
+Write a sodoku solver: http://rubyquiz.com/quiz43.html

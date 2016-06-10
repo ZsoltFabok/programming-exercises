@@ -1,0 +1,1 @@
+Exctend your artithmetic expression evaluator with a cache functionality: Add JDBC + sqlite3 support where you store the previous expresssions and results and if you receive an existing expression you use the cache and don't calculate
