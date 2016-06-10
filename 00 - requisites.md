@@ -9,3 +9,7 @@ These are the common requirements for the exerices:
 * it follows the clean code and KISS principles
 * it is connected to a quality checker such as sonar
 * has the proper test suite based on the test pyramid (unit, integration, user acceptance tests)
+
+Good practice:
+
+ * create dist task that creates the binary some exercise requires you to use
